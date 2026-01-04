@@ -12,7 +12,8 @@ Documentos usados para ADA-verano. Se asume conocimiento de AED.
 - **08 Ordenamiento Lineal**
 - **09 Grafos**
 
-## TODO
+
+## SYNTH
 - Diapos de 06-09
-- Apuntes de 07-09
-- ejercicios de 08
+
+Actualizado última vez Jan 4 - 2026
