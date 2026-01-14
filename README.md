@@ -13,7 +13,7 @@ Documentos usados para ADA-verano. Se asume conocimiento de AED.
 - **09 Grafos**
 
 
-## SYNTH
-- Diapos de 06-09
+## HYPO
+- Agregado apuntes de caps 03-06
 
-Actualizado última vez Jan 4 - 2026
+Actualizado última vez Jan 14 - 2026
