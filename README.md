@@ -1,7 +1,13 @@
-# Públic teaching notes
-Documentos usados para ADA-verano. Se asume conocimiento de AED.
+
+# Public teaching notes
+Documentos usados para dictado en UTEC
+
+## Novedades
+- Dictando actualmente TCOM y CP (2026-1)
+- Los materiales de ADA son para 2026-0 (desactualizado)
 
 ## Distribución
+### ADA
 - **01 Introducción**
 - **02 Crecimiento**
 - **03 D&C**
@@ -12,8 +18,18 @@ Documentos usados para ADA-verano. Se asume conocimiento de AED.
 - **08 Ordenamiento Lineal**
 - **09 Grafos**
 
+### TCOM
+- 00 Introduction
+- 01 Deterministic Finite Automaton
+- 02 Nondeterministic Finite Automaton
+- 03 Regular Expressions
+- 04 Pumping lemma
+- 05 Context Free Grammar
+- 06 Computability Theory
+- 07 Complexity Theory
 
-## HYPO
-- Agregado apuntes de caps 03-06
+## ANTI
+- ADA: Desactualizado
+- TCOM: Faltan slides de 5-7
 
-Actualizado última vez Jan 14 - 2026
+Actualizado última vez Mar - 2026
