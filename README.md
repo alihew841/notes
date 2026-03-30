@@ -19,17 +19,17 @@ Documentos usados para dictado en UTEC
 - **09 Grafos**
 
 ### TCOM
-- 00 Introduction
-- 01 Deterministic Finite Automaton
-- 02 Nondeterministic Finite Automaton
-- 03 Regular Expressions
-- 04 Pumping lemma
-- 05 Context Free Grammar
-- 06 Computability Theory
-- 07 Complexity Theory
+- **00 Introduction**
+- **01 Deterministic Finite Automaton**
+- **02 Nondeterministic Finite Automaton**
+- **03 Regular Expressions**
+- **04 Pumping lemma**
+- **05 Context Free Grammar**
+- **06 Computability Theory**
+- **07 Complexity Theory**
 
 ## ANTI
 - ADA: Desactualizado
 - TCOM: Faltan slides de 5-7
 
-Actualizado última vez Mar - 2026
+Actualizado última vez Mar 30 - 2026
